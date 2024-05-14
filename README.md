@@ -7,3 +7,4 @@ c'est une application FullStqckqui permet de gerer le crud sur les etudiants et 
 -Angular
 -Mysql
 # Run le projet
+https://github.com/MatySAKHO/EDACY_TP_CRUD.git
